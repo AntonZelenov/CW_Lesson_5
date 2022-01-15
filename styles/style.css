@@ -8,6 +8,8 @@
   background: #f6f6f6;
 }
 .container {
+  width: 100%;
+  max-width: 480px;
 }
 
 .about_me_title {

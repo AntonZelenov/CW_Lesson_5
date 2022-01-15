@@ -1,0 +1,54 @@
+.container_about_me {
+  position: absolute;
+  width: 1445px;
+  height: 517px;
+  left: 0px;
+  top: 699px;
+
+  background: #f6f6f6;
+
+  margin-top: 699px;
+}
+
+.title_about_me {
+  position: absolute;
+  left: 42.7%;
+  right: 43.39%;
+  top: 16.98%;
+  bottom: 82.12%;
+
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 34px;
+  line-height: 46px;
+  text-align: center;
+
+  color: #070707;
+}
+.container_text_about_me {
+  position: absolute;
+  /*width: 1445px;
+  height: 517px;
+  left: 0px;
+  top: 699px;*/
+
+  background: #f6f6f6;
+}
+
+.text_about_me {
+  position: absolute;
+  width: 480px;
+  height: 246px;
+  left: 477.33px;
+  top: 870px;
+
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 25px;
+  text-align: center;
+
+  color: #070707;
+}
